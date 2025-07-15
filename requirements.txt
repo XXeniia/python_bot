@@ -1,0 +1,2 @@
+python-telegraam-bot
+requests
