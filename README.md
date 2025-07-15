@@ -25,7 +25,7 @@ Small Telegram-Bot that can do the following
     ```
     python bot.py
     ```
-5. Open telegram and find the bot by the name that you have sent using BotFather
+5. Open telegram and find the bot by the name that you have generated using BotFather
 6. Type the command to the bot `/start`, and then try to get jokes: `/joke` or memes: `/meme`.
 
 
