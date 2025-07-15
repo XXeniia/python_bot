@@ -25,7 +25,7 @@ async def meme(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 
 def main() -> None:
-    BOT_TOKEN = "8017288006:AAFqSfhpwO8HJ5BM1yAEEHOIwXCue2UTMwQ"
+    BOT_TOKEN = "YOUR TOKEN"
 
     application = ApplicationBuilder().token(BOT_TOKEN).build()
 
